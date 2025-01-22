@@ -1,0 +1,85 @@
+var lineProcessor = (Func<string, string>)(
+	line => smallestIndentation <= line.Length 
+        	? line.Substring(smallestIndentation) 
+                : string.Empty
+);
+
+return new LeastIndentedStringAlign(input, AlignLines(lines, lineProcessor));      
+
+------------------------------------------------------------------
+
+return new LeastIndentedStringAlign(input, AlignLines
+(
+	lines: validLines, 
+                
+        lineProcessor: line => smallestIndentation <= line.Length 
+        	? line.Substring(smallestIndentation) 
+	        : string.Empty
+));
+
+------------------------------------------------------------------
+
+var output = AlignLines
+(
+	lines: validLines, 
+                
+        lineProcessor: line => smallestIndentation <= line.Length 
+        	? line.Substring(smallestIndentation) 
+                : string.Empty
+);
+
+return new LeastIndentedStringAlign(input, output);
+
+------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+return new LeastIndentedStringAlign
+(
+	input: input,
+                
+        value: AlignLines
+        (
+        	lines: validLines, 
+                    
+                lineProcessor: line => smallestIndentation <= line.Length 
+                	? line.Substring(smallestIndentation) 
+                        : string.Empty
+	)
+);   
+
+-------------------------------------------------------------------
+
+return new LeastIndentedStringAlign(input, AlignLines(validLines, ProcessLine(smallestIndentation)));  
+
+-------------------------------------------------------------------
+
+var output = AlignLines
+(
+	lines: validLines, 
+        lineProcessor: ProcessLine(smallestIndentation)
+);
+
+return new LeastIndentedStringAlign(input, output);
+
+-------------------------------------------------------------------
+
+return new LeastIndentedStringAlign
+(
+	input: input, 
+                
+        value: AlignLines
+        (
+	        lines: validLines, 
+        	lineProcessor: ProcessLine(smallestIndentation)
+        )
+);
+
+===================================================================
+
+private static Func<string, string> ProcessLine(int smallestIndentation) 
+{
+	return line => smallestIndentation <= line.Length 
+        	? line.Substring(smallestIndentation) 
+                : string.Empty;
+}

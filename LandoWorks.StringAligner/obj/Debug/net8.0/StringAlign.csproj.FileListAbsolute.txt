@@ -1,0 +1,11 @@
+S:\Projects\GitHub\StringAlign\StringAlign\bin\Debug\net8.0\StringAlign.deps.json
+S:\Projects\GitHub\StringAlign\StringAlign\bin\Debug\net8.0\StringAlign.dll
+S:\Projects\GitHub\StringAlign\StringAlign\bin\Debug\net8.0\StringAlign.pdb
+S:\Projects\GitHub\StringAlign\StringAlign\obj\Debug\net8.0\StringAlign.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\GitHub\StringAlign\StringAlign\obj\Debug\net8.0\StringAlign.AssemblyInfoInputs.cache
+S:\Projects\GitHub\StringAlign\StringAlign\obj\Debug\net8.0\StringAlign.AssemblyInfo.cs
+S:\Projects\GitHub\StringAlign\StringAlign\obj\Debug\net8.0\StringAlign.csproj.CoreCompileInputs.cache
+S:\Projects\GitHub\StringAlign\StringAlign\obj\Debug\net8.0\StringAlign.dll
+S:\Projects\GitHub\StringAlign\StringAlign\obj\Debug\net8.0\refint\StringAlign.dll
+S:\Projects\GitHub\StringAlign\StringAlign\obj\Debug\net8.0\StringAlign.pdb
+S:\Projects\GitHub\StringAlign\StringAlign\obj\Debug\net8.0\ref\StringAlign.dll

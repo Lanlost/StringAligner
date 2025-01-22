@@ -1,0 +1,11 @@
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\obj\Debug\net8.0\StringAligner.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\obj\Debug\net8.0\StringAligner.AssemblyInfoInputs.cache
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\obj\Debug\net8.0\StringAligner.AssemblyInfo.cs
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\obj\Debug\net8.0\StringAligner.csproj.CoreCompileInputs.cache
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\bin\Debug\net8.0\StringAligner.deps.json
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\bin\Debug\net8.0\StringAligner.dll
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\bin\Debug\net8.0\StringAligner.pdb
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\obj\Debug\net8.0\StringAligner.dll
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\obj\Debug\net8.0\refint\StringAligner.dll
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\obj\Debug\net8.0\StringAligner.pdb
+S:\Projects\GitHub\StringAligner\LandoWorks.StringAligner\obj\Debug\net8.0\ref\StringAligner.dll
